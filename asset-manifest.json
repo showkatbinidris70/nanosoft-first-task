@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.bc427b0d.js",
+    "static/js/787.464d1285.chunk.js": "/static/js/787.464d1285.chunk.js",
+    "static/media/fog-nature.png": "/static/media/fog-nature.0d24da6824eeebf076d1.png",
+    "static/media/treeman.PNG": "/static/media/treeman.932cb921a1905fef1af7.PNG",
+    "static/media/image 3.png": "/static/media/image 3.b48cfb0ae9d75d961ccb.png",
+    "static/media/qatar_order.jpeg": "/static/media/qatar_order.7cf637cfdfc6afa73959.jpeg",
+    "static/media/DSC_0802 1 (1).png": "/static/media/DSC_0802 1 (1).c2ab469a9714b14e9d7a.png",
+    "static/media/grocery.jpg": "/static/media/grocery.83a7233ec8a0a5c86a29.jpg",
+    "static/media/image 15.png": "/static/media/image 15.fb05df59bc451bdf25ef.png",
+    "static/media/image 15 (1).png": "/static/media/image 15 (1).13e6ecabcd36cffb7018.png",
+    "static/media/download.jpg": "/static/media/download.04d9a3f48a3567ca1b14.jpg",
+    "static/media/livestock.PNG": "/static/media/livestock.2b828d695affb8a04071.PNG",
+    "static/media/fish.PNG": "/static/media/fish.065aaf9600b62d562fcb.PNG",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.bc427b0d.js.map": "/static/js/main.bc427b0d.js.map",
+    "787.464d1285.chunk.js.map": "/static/js/787.464d1285.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bc427b0d.js"
+  ]
+}
